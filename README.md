@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Coffee Sales Dashboard" src="https://github.com/user-attachments/assets/8ef1f559-f0d8-4eb5-88d2-1f915e9b4e74" />
+
 # Coffee_Sales_Analysis_Dashboard_Excel
 An interactive Excel dashboard to analyze a coffee shop’s sales across products, categories, time of day, sizes, and locations. Built with PivotTables, slicers, and Power Pivot data model.
 ✨ Key KPIs (snapshot)
